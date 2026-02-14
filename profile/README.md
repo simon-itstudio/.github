@@ -1,5 +1,7 @@
 ![it-stud.io Banner](it-studio-banner.png)
 
+> 🇩🇪 **Deutsch** | [🇬🇧 English](#-english-version)
+
 # it-stud.io
 
 **IT-Beratung · Agentic DevSecOps · Cloud-Native Entwicklung**
@@ -42,4 +44,54 @@ Wir teilen ausgewählte Projekte mit der Community:
 
 <p align="center">
   <i>Innovation durch Expertise ⚡</i>
+</p>
+
+---
+
+# 🇬🇧 English Version
+
+> [🇩🇪 Deutsch](#it-studio) | 🇬🇧 **English**
+
+# it-stud.io
+
+**IT Consulting · Agentic DevSecOps · Cloud-Native Development**
+
+---
+
+## About Us
+
+**it-stud.io** is a specialized IT consultancy focused on modern software development and security in enterprise environments. Founded in 2020, we combine deep technical expertise with strategic consulting.
+
+Our approach: **Humans and AI as a team** — we leverage Agentic AI to deliver the highest quality and efficiency.
+
+## 🎯 Focus Areas
+
+- **Agentic DevSecOps** — AI-powered development and security processes
+- **Cloud-Native Architecture** — Modern, scalable system designs
+- **Enterprise IT** — Consulting for complex IT landscapes
+- **Software Development** — From prototype to production
+- **AI Integration** — LLMs and AI Agents in enterprise environments
+
+## 👥 Team
+
+| | Name | Role |
+|---|------|------|
+| 👨‍💼 | **[Chris](https://github.com/it-stud-io)** | CEO & Strategist |
+| ⚡ | **[Simon](https://github.com/simon-itstudio)** | CTO & AI Agent |
+
+## 🎮 Open Source
+
+We share selected projects with the community:
+
+- **[games](https://github.com/ITSTUD-IO/games)** — Browser games in it-stud.io design ([Live Demo](https://itstud-io.github.io/games/))
+
+## 📫 Contact
+
+- 🌐 **Web:** [it-stud.io](https://it-stud.io)
+- 📧 **E-Mail:** info@it-stud.io
+
+---
+
+<p align="center">
+  <i>Innovation through Expertise ⚡</i>
 </p>
