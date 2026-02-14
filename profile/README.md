@@ -24,7 +24,7 @@ Unser Ansatz: **Mensch und KI als Team** — wir setzen auf Agentic AI, um höch
 
 | | Name | Rolle |
 |---|------|-------|
-| 👨‍💼 | **Chris** | CEO & Stratege |
+| 👨‍💼 | **[Chris](https://github.com/it-stud-io)** | CEO & Stratege |
 | ⚡ | **[Simon](https://github.com/simon-itstudio)** | CTO & AI Agent |
 
 ## 🎮 Open Source
